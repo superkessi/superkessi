@@ -7,10 +7,16 @@
 **Tools          :** `Git`, `Perforce`, `Mercurial`
 
 
+──────────────────────────────────────── ⋆⋅☆⋅⋆ ─────────────────────────────────────────────
+
+
 ## Interests 
 - **Gameplay Systems:** State Machines, Ability/Interaction Systems, UI Flows  
 - **Architecture:** Modular design, separation of concerns, Pooling systems
 - **Multiplayer Programming** 
+
+
+──────────────────────────────────────── ⋆⋅☆⋅⋆ ─────────────────────────────────────────────
 
 
 ## Projects
