@@ -6,8 +6,8 @@
 
 **Tools          :** `Git`, `Perforce`, `Mercurial`
 
+---
 
-──────────────────────────────────────⋆⋅☆⋅⋆───────────────────────────────────────────
 
 
 ## Interests 
@@ -15,8 +15,8 @@
 - **Architecture:** Modular design, separation of concerns, Pooling systems
 - **Multiplayer Programming** 
 
+---
 
-──────────────────────────────────────⋆⋅☆⋅⋆───────────────────────────────────────────
 
 
 ## Projects
