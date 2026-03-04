@@ -1,6 +1,7 @@
 # Hey, I'm Kester 
 
-Aspiring Game Engineer, currently living in Berlin and learning at School4Games 
+Aspiring Game Engineer, currently living in Berlin.
+Student at School4Games.
 
 ദ്ദി •⩊• )
 
