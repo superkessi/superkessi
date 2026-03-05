@@ -10,11 +10,11 @@ Student at School4Games.
 
 ## Projects
 
-| Project         | Duration | Engine | Itch - Link                                           |
-| --------------- | -------- | ------ | ----------------------------------------------------- |
-| Frosty Fire     | 10 weeks | Unreal | [Frosty Fire](https://s4g.itch.io/frosty-fire)        |
-| Flowzone        | 10 weeks | Unity  | [Flowzone](https://s4g.itch.io/flowzone)              |
-| Serpent's Trial | 10 weeks | Godot  | [Serpent's Trial](https://s4g.itch.io/serpents-trial) |
+| Project         | Duration | Engine | Links                                                                                           |
+| --------------- | -------- | ------ | ----------------------------------------------------------------------------------------------- |
+| Frosty Fire     | 10 weeks | Unreal | [itch](https://s4g.itch.io/frosty-fire) - [git](https://github.com/superkessi/FrostyFire)       |
+| Flowzone        | 10 weeks | Unity  | [itch](https://s4g.itch.io/flowzone) - [git](https://github.com/superkessi/Flowzone)            |
+| Serpent's Trial | 10 weeks | Godot  | [itch](https://s4g.itch.io/serpents-trial) - [git](https://github.com/superkessi/SerpentsTrial) |
 
 ---
 
