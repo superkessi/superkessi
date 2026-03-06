@@ -8,7 +8,7 @@ Student at School4Games.
 
 &nbsp;
 <div align="center">
-⋆⋅☆⋅⋆
+. ݁₊ ⊹ . ݁˖ . ݁ ⋆⋅☆⋅⋆  ݁. ˖ ݁. ⊹ ₊  ݁.
 </div>
 
 ## Projects
@@ -21,9 +21,8 @@ Student at School4Games.
 
 &nbsp;
 <div align="center">
-⋆⋅☆⋅⋆
+. ݁₊ ⊹ . ݁˖ . ݁ ⋆⋅☆⋅⋆  ݁. ˖ ݁. ⊹ ₊  ݁.
 </div>
-
 ## Skills
 
 **Languages :** `C#`, `C++`, `GD Script`, `Python`
@@ -34,7 +33,7 @@ Student at School4Games.
 
 &nbsp;
 <div align="center">
-⋆⋅☆⋅⋆
+. ݁₊ ⊹ . ݁˖ . ݁ ⋆⋅☆⋅⋆  ݁. ˖ ݁. ⊹ ₊  ݁.
 </div>
 
 ## Interests 
