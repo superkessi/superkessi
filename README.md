@@ -6,7 +6,10 @@ Student at School4Games.
 
 ദ്ദി •⩊• )
 
----
+&nbsp;
+<div align="center">
+─────── ⋆⋅☆⋅⋆ ───────
+</div>
 
 ## Projects
 
@@ -16,7 +19,10 @@ Student at School4Games.
 | Flowzone        | 10 weeks | Unity  | [itch](https://s4g.itch.io/flowzone) - [git](https://github.com/superkessi/Flowzone)            |
 | Serpent's Trial | 10 weeks | Godot  | [itch](https://s4g.itch.io/serpents-trial) - [git](https://github.com/superkessi/SerpentsTrial) |
 
----
+&nbsp;
+<div align="center">
+─────── ⋆⋅☆⋅⋆ ───────
+</div>
 
 ## Skills
 
@@ -26,9 +32,10 @@ Student at School4Games.
 
 **Tools          :** `Git`, `Perforce`, `Mercurial`
 
----
-
-
+&nbsp;
+<div align="center">
+─────── ⋆⋅☆⋅⋆ ───────
+</div>
 
 ## Interests 
 - **Gameplay Systems:** State Machines, Ability/Interaction Systems, UI Flows  
