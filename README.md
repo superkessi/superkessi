@@ -1,3 +1,4 @@
+
 # Hey, I'm Kester 
 
 Game Engineer, currently living in Berlin.
@@ -6,17 +7,9 @@ Student at [School4Games](https://www.school4games.net)
 
 ദ്ദി •⩊• )
 
----
-
-## Projects
-
-| Project         | Duration | Engine | Links                                                                                           |
-| --------------- | -------- | ------ | ----------------------------------------------------------------------------------------------- |
-| Frosty Fire     | 10 weeks | Unreal | [itch](https://s4g.itch.io/frosty-fire) - [git](https://github.com/superkessi/FrostyFire)       |
-| Flowzone        | 10 weeks | Unity  | [itch](https://s4g.itch.io/flowzone) - [git](https://github.com/superkessi/Flowzone)            |
-| Serpent's Trial | 10 weeks | Godot  | [itch](https://s4g.itch.io/serpents-trial) - [git](https://github.com/superkessi/SerpentsTrial) |
-
----
+<div align="center">
+. ݁₊ ⊹ . ݁˖ . ݁ ⋆⋅☆⋅⋆  ݁. ˖ ݁. ⊹ ₊  ݁.
+</div>
 
 ## Skills
 
@@ -24,9 +17,24 @@ Student at [School4Games](https://www.school4games.net)
 
 **Engines      :** `Unity`, `Godot`, `Unreal`
 
-**Tools          :** `Git`, `Perforce`, `Mercurial`
+**Tools          :** `Perforce`, `Git`, `Mercurial`
 
----
+
+<div align="center">
+. ݁₊ ⊹ . ݁˖ . ݁ ⋆⋅☆⋅⋆  ݁. ˖ ݁. ⊹ ₊  ݁.
+</div>
+
+## Projects
+
+| Project                                                        | Duration | Engine | Links                                                                                              |
+| -------------------------------------------------------------- | -------- | ------ | -------------------------------------------------------------------------------------------------- |
+| [Frosty Fire](https://github.com/superkessi/FrostyFire)        | 10 weeks | Unreal | [Git](https://github.com/superkessi/FrostyFire) - [Itch.io](https://s4g.itch.io/frosty-fire)       |
+| [Flowzone](https://github.com/superkessi/Flowzone)             | 10 weeks | Unity  | [Git](https://github.com/superkessi/Flowzone) - [Itch.io](https://s4g.itch.io/flowzone)            |
+| [Serpent's Trial](https://github.com/superkessi/SerpentsTrial) | 10 weeks | Godot  | [Git](https://github.com/superkessi/SerpentsTrial) - [Itch.io](https://s4g.itch.io/serpents-trial) |
+
+<div align="center">
+. ݁₊ ⊹ . ݁˖ . ݁ ⋆⋅☆⋅⋆  ݁. ˖ ݁. ⊹ ₊  ݁.
+</div>
 
 ## Interests 
 - **Gameplay Systems:** State Machines, Ability/Interaction Systems, UI Flows  
