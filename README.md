@@ -8,7 +8,7 @@ Student at School4Games.
 
 &nbsp;
 <div align="center">
-─────── ⋆⋅☆⋅⋆ ───────
+⋆⋅☆⋅⋆
 </div>
 
 ## Projects
@@ -21,7 +21,7 @@ Student at School4Games.
 
 &nbsp;
 <div align="center">
-─────── ⋆⋅☆⋅⋆ ───────
+⋆⋅☆⋅⋆
 </div>
 
 ## Skills
@@ -34,7 +34,7 @@ Student at School4Games.
 
 &nbsp;
 <div align="center">
-─────── ⋆⋅☆⋅⋆ ───────
+⋆⋅☆⋅⋆
 </div>
 
 ## Interests 
