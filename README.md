@@ -40,3 +40,12 @@ Student at [School4Games](https://www.school4games.net)
 - **Gameplay Systems:** State Machines, Ability/Interaction Systems, UI Flows  
 - **Architecture:** Modular design, separation of concerns, Pooling systems
 - **Multiplayer Programming** 
+
+
+<div align="center">
+. ݁₊ ⊹ . ݁˖ . ݁ ⋆⋅☆⋅⋆  ݁. ˖ ݁. ⊹ ₊  ݁.
+</div>
+
+## More about me
+
+[Curriculum Vitae](https://github.com/superkessi/superkessi/blob/main/CV/CV_KesterKarpf_2026.pdf)
