@@ -45,7 +45,3 @@ Student at [School4Games](https://www.school4games.net)
 <div align="center">
 . ݁₊ ⊹ . ݁˖ . ݁ ⋆⋅☆⋅⋆  ݁. ˖ ݁. ⊹ ₊  ݁.
 </div>
-
-## More about me
-
-[Curriculum Vitae](https://github.com/superkessi/superkessi/blob/main/CV/CV_KesterKarpf_2026.pdf)
